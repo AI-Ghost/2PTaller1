@@ -1,2 +1,1 @@
-# p2-taller1
-Taller 1 Semana 10
+Prueba del sitio funcionando en archivo PNG "pruebaFunciona"
